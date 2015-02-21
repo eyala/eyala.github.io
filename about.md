@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+I'm a developer at PayPal, working mostly in Java and Apache Pig.
 
-### More Information
+I'm also the maintainer of the [pig-eclipse project](https://github.com/eyala/pig-eclipse), and the creator/maintainer of [gedit-pig](https://github.com/eyala/gedit-pig), a pig syntax highlighting scheme for gedit.
 
-A place to include any other types of information that you'd like to include about yourself. 
+Before PayPal I was a team leader and developer at Vidmind, working on their recommendation engine and DRM solutions.
 
-### Contact me
+And before that I worked at SAP on the Visual Composer and River projects.
 
-[email@domain.com](mailto:email@domain.com)
